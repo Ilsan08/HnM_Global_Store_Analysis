@@ -38,7 +38,7 @@ Visualisasi akhir berhasil menggabungkan tiga metrik utama dalam satu *chart* ya
 
 ## Tampilan Dashboard
 
-![Tampilan Dashboard H&M Store Analysis](Dashboard 1 (1).png)
+![Tampilan Dashboard H&M Store Analysis](Dashboard.png)
 
 ##  Akses File Proyek
 
