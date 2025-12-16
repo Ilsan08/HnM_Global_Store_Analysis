@@ -38,6 +38,11 @@ Visualisasi akhir berhasil menggabungkan tiga metrik utama dalam satu *chart* ya
 
 ## 🖼️ Tampilan Dashboard
 
-![Tampilan Dashboard H&M Store Analysis](hnm_dashboard_final.png)
+![Tampilan Dashboard H&M Store Analysis](Dashboard1(1).png)
+
+##  Akses File Proyek
+
+* **Kode Pembersihan Data (Python Notebook):** [LIHAT KODE DI BROWSER](ALL_H&M_STORES_WORLDWIDE.ipynb)
+* **File Dashboard Tableau:** [UNDUH WORKBOOK (.twbx)](ALL H&M STORES WORLDWIDE.twbx)
 
 ***
