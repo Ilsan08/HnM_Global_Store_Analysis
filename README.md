@@ -8,7 +8,7 @@ I am driven to leverage my technical skills in **Python and SQL** to transform r
 
 This repository serves as a space to showcase my abilities, share my end-to-end data analysis projects, and track my continuous growth in the data domain.
 
----
+
 
 ## Table of Contents
 
@@ -18,7 +18,7 @@ This repository serves as a space to showcase my abilities, share my end-to-end 
 * [Certificates](#certificates)
 * [Contact](#contact)
 
----
+
 
 
 ## Portfolio Projects
@@ -35,7 +35,7 @@ In this section, I list data analytics projects, detailing the goals, technology
 * **Technology:** Python (Pandas).
 * **Result (Output):** A clean, modeled dataset ready for visualization, forming the foundation of the market analysis.
 
----
+
 
 ### Data Visualization & Analysis (Tableau)
 
@@ -51,13 +51,13 @@ In this section, I list data analytics projects, detailing the goals, technology
 * **Technology:** Tableau.
 * **Key Findings:** The analysis reveals a dual strategy: **Flagship-led investment** in high-priority markets (US, China) and **high-density standard store deployment** in mature European markets.
 
----
+
 
 ## Education
 
-* **Langlangbuana University:** Bachelor of Science (B.Sc.), Information Technology, 2023 – Present (On Track)
+* **Langlangbuana University:**  informatics engineering, 2023 – Current
 
----
+
 
 ## Certificates
 
@@ -69,9 +69,9 @@ The best way to showcase skills is by doing and sharing your job done, but somet
 * **Software Engineer:** [Certificate Into Software Engineer] - [View Certificate]([https://drive.google.com/drive/folders/1Ge7Y_uNUjMn1b1lDD0Y_sTaEmZFldbwx)](https://drive.google.com/file/d/1q5bWQSkuxcHv3tKJ_qqJPAlcrG41VWhl/view?usp=sharing)
 
 
----
+
 
 ## Contact
 
-* **LinkedIn:** [@ilsanhidayatulloh](https://www.linkedin.com/in/ilsanhidayatulloh)
+* **LinkedIn:** [@ilsanhidayatulloh]([https://www.linkedin.com/in/ilsanhidayatulloh](https://www.linkedin.com/in/ilsan-hidayatuloh-084465288/))
 * **Email:** hidayatullohilsan70@gmail.com
