@@ -1,4 +1,4 @@
-# Ilsan Hidayatulloh - Data Analyst Portfolio
+# Ilsan Hidayatuloh - Data Analyst Portfolio
 
 ## About Me
 
@@ -50,6 +50,10 @@ In this section, I list data analytics projects, detailing the goals, technology
 * **Description:** Visualized the cleaned dataset in Tableau, featuring a Dual-Axis Chart to compare total stores with city spread across the TOP 20 countries, along with a Stacked Bar Chart for store classification breakdown.
 * **Technology:** Tableau.
 * **Key Findings:** The analysis reveals a dual strategy: **Flagship-led investment** in high-priority markets (US, China) and **high-density standard store deployment** in mature European markets.
+
+1. **[Analisis Segmentasi Pelanggan Mall](./Mall_customers.ipynb)**
+2. **[Data Penjualan Coffee Shop](./CoffeeOrdersData.xlsx)**
+3. **[Performa Penjualan E-commerce](./E-commerce_sales(1).csv)**
 
 
 
