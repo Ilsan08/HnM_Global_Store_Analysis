@@ -23,45 +23,56 @@ I am driven to leverage my technical skills in **Python and SQL** to transform r
 
 ## Portfolio Projects
 
-In this section, I list data analytics projects, detailing the goals, technology stack used, and key insights derived.
+# Data Analyst Portfolio - Ilsan Hidayatuloh
 
-### Data Cleaning & Modeling (Python)
+In this section, I list my data analytics projects, detailing the goals, technology stack used, and key insights derived from various industries.
 
-#### H&M Store Data Cleaning and Feature Engineering
+---
 
-* **Code:** [VIEW PYTHON CODE IN REPO](ALL_H&M_STORES_WORLDWIDE.ipynb)
-* **Goal:** To prepare raw store data for advanced visualization, focusing on data quality, handling missing values, and creating the core analytic feature: `Clean StoreClass`.
-* **Description:** Used Python (**Pandas**) to ingest raw data, perform necessary data validation, and address NULL values in the `StoreClass` column by reclassifying them as "Not yet confirmed." This script ensures data integrity and modeling readiness for Tableau.
+###  Python  Projects
+
+#### 1. [Mall Customer Segmentation Analysis](./Mall_Customers.ipynb)
+* **Goal:** To identify distinct customer segments based on annual income and spending patterns to optimize marketing strategies.
+* **Description:** Conducted Exploratory Data Analysis (EDA) and data cleaning to analyze shopper behavior. 
+* **Technology:** Python (Pandas, Matplotlib, Seaborn).
+* **Key Insight:** Identified high-value customer segments and "frugal" high-income earners, allowing for more targeted promotional campaigns.
+
+#### 2. [H&M Store Data Cleaning and Feature Engineering](./ALL_H&M_STORES_WORLDWIDE.ipynb)
+* **Goal:** To prepare raw global store data for advanced visualization by focusing on data quality and feature creation.
+* **Description:** Used Python to handle missing values and address NULLs in the `StoreClass` column, reclassifying them to ensure data integrity.
 * **Technology:** Python (Pandas).
-* **Result (Output):** A clean, modeled dataset ready for visualization, forming the foundation of the market analysis.
+* **Result:** A clean, modeled dataset that serves as the foundation for the Tableau market analysis.
 
+---
 
+###  Visualization & Dashboard Projects
 
-### Data Visualization & Analysis (Tableau)
+#### 1. [Coffee Shop Sales Analysis](./coffeeOrdersData.xlsx?raw=true)
+* **Goal:** To manage and visualize coffee transaction data and customer loyalty trends.
+* **Description:** Performed **Data Cleaning** (handling missing values), **Data Transformation** (adding new calculated columns), and developed a comprehensive dashboard.
+* **Technology:** Microsoft Excel (Pivot Tables, Advanced Formulas).
+* **Dashboard Preview:**
+    ![Visualisasi Data Coffee](./CoffeeOrdersDate.png)
 
-#### Global Store Network Analysis: Mapping H&M's Market Presence and Strategy
-
-**Dashboard Preview:**
-
-![H&M Store Network Analysis Dashboard](Dashboard.png)
-
-* **Dashboard File:** [CLICK TO DOWNLOAD WORKBOOK](ALL%20H&M%20STORES%20WORLDWIDE.twbx)
-* **Goal:** To strategically analyze H&M's global store distribution by comparing store quantity, investment quality (*Store Class*), and market density (*City Penetration*).
-* **Description:** Visualized the cleaned dataset in Tableau, featuring a Dual-Axis Chart to compare total stores with city spread across the TOP 20 countries, along with a Stacked Bar Chart for store classification breakdown.
+#### 2. [Global Store Network Analysis: H&M Market Strategy](ALL%20H&M%20STORES%20WORLDWIDE.twbx)
+* **Goal:** To strategically analyze H&M's global distribution by comparing store quantity and investment quality.
+* **Description:** Visualized market density using Dual-Axis Charts and Stacked Bar Charts to show store classification across the TOP 20 countries.
 * **Technology:** Tableau.
-* **Key Findings:** The analysis reveals a dual strategy: **Flagship-led investment** in high-priority markets (US, China) and **high-density standard store deployment** in mature European markets.
+* **Dashboard Preview:**
+    ![H&M Store Network Analysis Dashboard](Dashboard.png)
+* **Key Findings:** Revealed a strategy of **Flagship-led investment** in US/China and **high-density deployment** in mature European markets.
 
+---
 
+###  SQL & Database Management
 
-1. **[ Analisis Segmentasi Pelanggan Mall](./Mall_Customers.ipynb)**
-   - Analisis perilaku belanja menggunakan Python (Pandas & Seaborn).
+#### 1. [E-commerce Sales Performance Analysis](./E-commerce_sales(1).sql)
+* **Goal:** To extract business-critical metrics from raw e-commerce transaction databases.
+* **Description:** Developed SQL scripts to **filter** specific timeframes, **clean** inconsistent entries, and aggregate data for profit and growth analysis.
+* **Technology:** SQL (PostgreSQL/MySQL).
+* **Key Metrics:** Total Revenue, Sales Growth, and Profit Margin by Category.
 
-2. **[☕ Data Penjualan Coffee Shop (Klik untuk Download)](./coffeeOrdersData.xlsx?raw=true)**
-   - Dataset transaksi kopi dalam format Excel. Berisi data pesanan, jenis roasting, dan loyalitas pelanggan.
-
-3. **[ Performa Penjualan E-commerce](./E-commerce_sales(1).sql)**
-   - Script query SQL untuk analisis tren penjualan dan profit.
-
+---
 
 
 ## Education
